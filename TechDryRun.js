@@ -2,7 +2,5 @@
 
 var hrr18 = {
   name: 'Keeley Nakamoto'
+  name: 'duke'
 }
-
-
-
